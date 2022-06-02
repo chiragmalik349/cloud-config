@@ -1,0 +1,3 @@
+client:
+  application:
+    message: This message is from application properties!!
