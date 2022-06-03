@@ -1,0 +1,4 @@
+client:
+ message: hello from clinet3
+ default:
+  message: hellow from client3 default
