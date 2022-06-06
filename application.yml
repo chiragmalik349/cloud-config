@@ -1,3 +1,4 @@
 client:
   application:
-    message: This message is from application properties!@
+    default:
+      message: This message is from application properties!@
