@@ -1,4 +1,4 @@
 client:
-  message: hello world from client 1, default profile update!!!!
+  message: hello world from client 1, dev profile.
   testdefault:
     message: This is a default message from default profile.
