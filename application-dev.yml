@@ -1,3 +1,3 @@
 client:
   application:
-    message: This message is from application properties, dev!
+    messages: This message is from application properties, dev!
